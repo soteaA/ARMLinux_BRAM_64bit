@@ -1,0 +1,6 @@
+the_ROM_image:
+{
+	[bootloader]/home/einsamer-wolf/Vivado/proj/zynq_os/fsbl/Debug/fsbl.elf
+	/home/einsamer-wolf/Vivado/part/bm_trans_v2/proj/proj.runs/impl_1/bm_trans_bram_wrapper.bit
+	/home/einsamer-wolf/zynq_os/u-boot-xlnx/u-boot.elf
+}
